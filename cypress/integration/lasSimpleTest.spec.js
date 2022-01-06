@@ -69,6 +69,7 @@ describe( "L & S simple test cases", () => {
                 expect(productSiteName).to.include(productName);
             } )
         } )
+        cy.wait(100);
         }catch(err){console.log(err);} 
     } )
 
