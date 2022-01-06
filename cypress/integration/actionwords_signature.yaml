@@ -1,0 +1,1223 @@
+---
+- name: User need to  navigate to System > Import
+  uid: 05e142f4-6fd2-48b1-b6d8-f85be2e1f366
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Click on Create a new import job
+  uid: 3229d756-d1ca-47e9-a0fa-14df45cfaa5e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Set up in the details like job title
+  uid: b9cafb0c-3c54-436a-848e-869e9ed12c81
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'Set up in the details like entity (types: products), import behaviour, import
+    source file,'
+  uid: 301ade4b-92d1-4f4e-9707-99b505a736be
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Upload the file
+  uid: a07c39b9-45c4-4cf8-a158-1b420dc56176
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Validate the setup and date file
+  uid: e67127d9-4658-4f45-bbec-fa257e31eaf2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Save the settings
+  uid: 62df14fc-7634-46d2-a19f-00686720680e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to Run the the Import functionality successfully.
+  uid: e1e0c2aa-f485-4d9e-b295-6148a88b166c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I am logged in to the site as a customer
+  uid: dc54590a-c7eb-41ed-8987-de8e263c4984
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'I have purchased a product that has the attribute: *''Unique to a particular
+    machine''* set to *''Yes''*'
+  uid: 436cf18f-b781-4a6f-82f7-6d2ea5992083
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: navigate to 'My Machines' in my customer account
+  uid: db714a4e-b085-4e24-88fb-9dbac4d5d460
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the machine should be visible in the list
+  uid: bcc1580c-bd58-428d-8cc2-9e44b2afb1c4
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User have accessed the admin URL
+  uid: a833b8a2-a4d4-45ee-a91d-b37eac98ab57
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User have added login credentials
+  uid: 01412755-f1c5-4b08-91e3-896c1ffd239f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can access the admin area
+  uid: 982b9447-2dd7-4bc9-a936-a090b14baa59
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User have accessed the admin site
+  uid: c4681463-9034-43d4-8e8c-a6ac004535ee
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to sales > order > edit/view order
+  uid: d2614854-4610-4563-91fa-1c03fa15fa04
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can view the particular order details page
+  uid: 79c665fe-7dce-424b-b595-1e898c8599be
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to sales > order
+  uid: 7cef359a-aa2d-4c66-a309-9101f0376cba
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the create new order button
+  uid: f488a9f4-c87f-4b1c-818f-f723d06721cd
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User select a customer
+  uid: 64ec76e6-c4ba-4b66-850d-3ef30bca0ce9
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User add a product to the order
+  uid: 0cc24df1-8b80-4b8b-8f14-3c05c8b26e64
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User add billing and shipping details
+  uid: 7b8154ea-85d5-49a2-9e13-5155e7951bb1
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User add payment and shipping method
+  uid: 6dd37144-0178-4f08-b328-6466de0713a6
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the submit order button
+  uid: 88d09756-4fd0-4024-9e1e-67b9996baa35
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can create a new order in the admin
+  uid: 5926bc66-7bd1-4804-97c1-18193e034dac
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the reorder button at the top
+  uid: 68de8786-87ce-47b4-9a53-0f651922fc49
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can reorder in the admin
+  uid: a4a95943-fcd6-4384-aca4-973a84b38fe6
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User have placed an order ( with online payment methods)
+  uid: e8afabb6-8546-49ed-a98f-935ce739f953
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the order should be in the 'Processing'  status
+  uid: 47fd4706-4c49-450d-8f96-639d98b7d368
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to sales > order > edit/view order > Invoices > view
+  uid: 1de59374-adc4-45c9-b16a-d56e19b690f0
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can the order Invoice details
+  uid: 5e2770af-9ba4-44c0-bb7d-27b80ee7785b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the ship button at the top
+  uid: 1f0383e9-141f-44ea-8ba7-340a14e1d416
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the submit shipment on the shipment page
+  uid: 3e8266e2-f5e5-4cb6-b179-7363a60d87de
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can see the success message “ The shipment has been created.”
+  uid: 367100e8-5860-4fca-b219-1d689d1d6d28
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the order should be in the ‘Complete’ status
+  uid: 74885e93-ef93-4262-b404-ab894b9daa50
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the order is in the ‘Complete’ status
+  uid: adda68a4-1b86-41f3-8a69-e6fb5514c4b8
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to sales > order > edit/view order > shipment > view
+  uid: 4508f5b4-c424-4fc4-86ad-0b6358ad5473
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can the order shipment details
+  uid: bba5c117-6137-40ea-b5fe-3a13aff4950d
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the Credit Memo button at the top
+  uid: 421eb33c-912a-432b-8e23-060c2b5f2acc
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the ‘Refund’ on the New Memo page
+  uid: 3dbeb46f-89a4-453c-b545-52c559ae7152
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can see the success message “ You created the credit memo..”
+  uid: a00feabd-c65d-4630-983a-50f3516d978c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the order should be in the ‘Closed’ status
+  uid: 0de66e37-4b3f-4165-bd29-6198a7ede37a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: order is in the ‘Closed’ status
+  uid: 17a219fb-e06a-4230-b64f-90a112db6b73
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to sales > order > edit/view order > credit memos > view
+  uid: 2e11600c-f24f-4181-b141-3f4287641992
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can the credit memo details
+  uid: c717a378-1c3b-4261-b033-744ec6d02ddd
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to customer > all customer
+  uid: 471ad59a-e259-47f8-8afd-7c0066705af9
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the add new customer button
+  uid: 19fbbaca-b0b6-4db5-bab1-5661b2b69e3a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User add the account information details
+  uid: 2ddc1c37-d744-4e7b-a072-0dfe463a2b2b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can create a new customer in the admin
+  uid: b793f9e1-f91f-400d-ae8a-46cceca73590
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to customer > all customer > view/edit customer
+  uid: d6237d71-9dad-45c8-9b97-8cfba61a8740
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can see the customer details
+  uid: c69d0c6a-0636-4ac0-a65a-6470b190fb46
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to system > customer service > users
+  uid: e54e39b0-45a4-4a66-a9b1-b4e600567ceb
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can create a customer service user in the admin
+  uid: b6f5f24d-8885-4e30-a1d9-c0992f6374ce
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to system > customer service > users > view/edit customer
+  uid: 3f715df7-7346-4c9a-893c-d2cc807ca2da
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to catalog > product > add product
+  uid: 88a81b0b-20d2-4858-82a5-758b8fbd5372
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User enter all the required product details
+  uid: dc898118-6086-4723-a915-989f39d0f73c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the save button
+  uid: 81209aed-151b-43c0-82c4-72a771fcc01a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can add a new product in the admin
+  uid: 9f454aec-ca8c-4685-8ab1-edc26b2ca163
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to catalog > product > edit product
+  uid: bcc42bbe-5a6c-415c-83bb-80d64f78a46f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User enter all the product details to change
+  uid: ca3e6828-de9e-4a20-bee7-d928d61b04d2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can edit a product in the admin
+  uid: b81c5402-b097-43ea-9d08-105fd7a2cf88
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to catalog > categories > add subcategory
+  uid: 6064b230-9ede-4ac8-b907-a9d0f851cb9c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User enter all the required details
+  uid: 509bd06c-873c-45eb-8c2c-bcf73cd2895c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can add a new category in the admin
+  uid: fb838cfb-e38d-479c-a9f8-6423b5c61899
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to catalog > categories > select a category
+  uid: e937b30c-51c7-495d-accf-476c76bfe92b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User enter all the details that need to change
+  uid: 49e6d534-8447-4490-8537-aad62048c4b9
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can edit a category in the admin
+  uid: cbe75385-0f62-4046-b556-630e49bad110
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to content > block > add new block
+  uid: c5216daf-2293-4498-9719-c58c288e62c8
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can add a new block in the admin
+  uid: 1505702a-ff98-4888-bd3f-059633e22f2a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to content > block > edit block
+  uid: 0be9594d-3068-4a6d-a131-aa15527d4cee
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can edit a block in the admin
+  uid: f389643f-1b6c-4f59-86bf-5cc0bce1c895
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to content > page > add new page
+  uid: 0fbed108-4ed7-434e-bf78-b5f1aa2fe5f5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can add a new page in the admin
+  uid: 9fa4005e-38d6-4b6d-b728-f15652117772
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to content > page > edit page
+  uid: 7a2f48a7-c9fc-4d55-be8b-098af7c8aa85
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can edit a page in the admin
+  uid: 31a6548b-e720-4486-b0a6-cebe24814a04
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to marketing > cart price rule  > add new rule
+  uid: cbf0af3b-71eb-4695-bd24-2e94bf10f1af
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can add a new  cart price rule  in the admin
+  uid: 7dd6659a-4008-4a2e-8010-28aaedf338e7
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: URL L&S Engineer
+  uid: b9f87b45-0c8f-4a6c-b872-343b4d9c0a30
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to marketing > cart price rule  > edit
+  uid: ad8cb9e4-5388-4f7a-aeca-bc572339b218
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Visit the Register User page by clicking on Account icon
+  uid: b5fff88a-80d6-4983-9e99-e3620a7d87f6
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can edit a cart price rule in the admin
+  uid: '097d1f2a-9bdd-4fa6-b348-4ed10f4d6d3a'
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on "p1" option in the dropdown
+  uid: 8ab16ae5-61de-4d56-ab8e-ecbb5c0ef710
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see the Log In page loading properly
+  uid: 51c43f3e-3640-4016-9325-c87c0e8d2e9f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to enter the user details in all the required fields on
+    the register user form
+  uid: bed52a4d-d53a-4c86-8b67-8da5cd5dbf2f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Click on the checkbox to confirm Recaptcha working
+  uid: e1500b71-ca52-4d49-b029-eb53023335d3
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Click on 'Please tick this box to indicate you have read our privacy
+    policy' acceptance check box
+  uid: edc28b5f-65b5-4989-902e-0a471e0ed72b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Click on 'Create Account' Button
+  uid: 9383b3fe-ea28-4274-bab6-a6e9587be3f7
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is redirected to Account Dashboard with Success Message
+  uid: a866c9dc-fde5-4c51-a67d-b81d17951268
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to Click on 'CREATE AN ACCOUNT' Button
+  uid: 95d511a8-d779-4b10-8aea-89de2270bea7
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Should be Redirected to 'Register Page'
+  uid: fae8cb7f-3496-4eac-9350-290dd92e9dd0
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Click on 'I am a trade customer' acceptance check box (Click if reuired
+    to create Trade User)
+  uid: 4215c1ca-7ab5-4382-acb9-19551a2f0b94
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Visit the Login User page by clicking on Account icon
+  uid: e01f0cc4-32a8-4db4-82a5-2bb7678ee69b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to enter the valid user details in all the required fields
+    on the Log In form
+  uid: 2449c199-91c0-4d4f-acf9-6f1d589ea3cb
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Click on LogIn Button
+  uid: 944a95dd-fc35-4dad-8bf7-fda0db9291bc
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Click on 'I am a trade customer' acceptance check box
+  uid: 478dc5c8-a1ce-4664-9ff1-42b939acaeb5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is able to see the updated store Logo with L&S TRADE
+  uid: 9ba53cb5-1e19-4486-8de5-8d21c4636277
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I have accessed the site as a logged-in user
+  uid: a55a38a7-3b0f-4e43-9a84-fd2f3dc09fd3
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I click on the change password link on the account dashboard
+  uid: 26def8ab-3f63-495b-b8c3-9d16fee2b3c4
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I have entered all the required details
+  uid: b3fbe5d5-aabd-4dc9-89ca-c341c27dfe71
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I click on the submit button
+  uid: 3144ffb1-4451-4503-bbf9-822f1d8cbb27
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the user’s password should get changed
+  uid: d36f4c22-f701-4072-8160-edaad0cee191
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I have changed my password from the account dashboard
+  uid: d8eaa8ed-d2d8-4445-88bc-5e0dd000c0d9
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I have accessed the site as a guest user
+  uid: 4ad33dfb-c887-43f2-9129-73fb2f78a25e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I click on the login/register button
+  uid: c737dea8-f0d1-4b43-a20f-69b91e58b841
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I have entered the correct data
+  uid: b09c51a3-3b18-4284-b966-bf31d9e593ee
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I click on the sign-in button
+  uid: 9ae42a4b-fea9-4231-925d-9dd2d4ee264e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I should get logged in to the site
+  uid: 9502250c-674e-4050-859d-8d873adbb080
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I have accessed the site
+  uid: efc6f2e8-cf64-4177-a571-7adef30258fb
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I click on the forgot password link
+  uid: fd61c671-6a4b-499c-9800-d88c6f2fb056
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I click on the reset password button obtained from the mail
+  uid: fd795ec0-91e1-434f-9853-0958b487c1aa
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the user password should get changed
+  uid: d56c30eb-a3f7-49f0-86b9-ce34e4dd2008
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I have reset my password
+  uid: 57f434b4-bbdb-49b6-8357-cbc065fee726
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I click on the edit address link on the account dashboard
+  uid: 1888a30e-0538-4d6f-9d02-f92d1515474c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I have entered all the details that are needed to change
+  uid: cfb38d92-2701-42de-b8d1-8a6e2aa4e98b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the user’s address should get changed
+  uid: 552db7ac-916f-455f-b09f-5c80bd8c5d3e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I have placed orders previously
+  uid: '087a5a40-600f-4972-8268-b712ee751d80'
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I click on my order link
+  uid: e8aeb830-3563-464a-8451-c4dfcb6b8e8d
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I click on the view order
+  uid: 6154a1b8-ce63-44e4-84e7-b8688dae57d5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the order details should be visible
+  uid: f32a6631-0654-48b2-9bb8-260461a28bd4
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I click on the sign-in button, without filling in the required field details.
+  uid: 200d05e8-2026-4369-9be5-a2ee8885e4f5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I should get an error message that fields are required
+  uid: da87bcee-214e-46fd-a5c9-b68786541b0b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I click on the sign out button
+  uid: ca3b8cb4-68e3-48ae-b269-bcd64b05cb42
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I should get log out from the site
+  uid: a124f491-02ae-411f-8897-a736a8cc1f94
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I should redirect to the homepage
+  uid: 8a7ebdba-a7b2-4852-be2c-53be573d02f4
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see and Click the 'Forgot your password?' link on the
+    Log In page and page should load properly
+  uid: d00589ba-a855-4238-9109-2826ae50e9de
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be Redirected to 'Forgot Password' Page with and page should load
+    properly
+  uid: 4dcb7b0d-0d5c-43dd-b8ac-a091d5a2191f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to enter the user details in the required fields on the
+    Forgot Password form
+  uid: 3c917e61-3b73-435a-8c8a-58c2310acd5b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Click on 'LOG IN' Button
+  uid: 4dc1d15d-e1ec-40b8-9862-1a72772517c2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I have a product in 'My Machines'
+  uid: 296c3e84-1646-496d-8d22-db7df2038f3a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I navigate to the Homepage
+  uid: 78a4aeab-848e-4c9d-a7a5-29b2bb85e65a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I should see a 'My Machines' widget
+  uid: 197edaa9-1fa5-4156-87c8-d62aa00ea598
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: it displays recommendations for my machine
+  uid: d06f292d-dccc-424c-889d-6bcc7e494a15
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I navigate to a product that is also associated with my machine
+  uid: cb2197d1-4805-4346-adc2-39930a5602d3
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I should see the following message 'this part fits your [machine]'
+  uid: 6662dd1d-5c04-48bf-9dac-f671df216935
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I navigate to 'My Machines' in my customer account
+  uid: 046edd47-e41c-40f1-8382-8382c91334dd
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I remove the product by clicking 'Delete'
+  uid: 8fda28a2-9190-4a54-be85-c47aec1cb0da
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the product should no longer be visible in the list
+  uid: 27963382-115c-4836-b87b-cf2cafc6603a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the homepage widget should no longer be visible
+  uid: f675c88c-2a77-41da-8435-c1d418997825
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the 'this part fits your [machine]' message should no longer be visible on
+    product pages
+  uid: 468acece-c38f-4e0c-8895-488d3affb9d8
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click and provide input to Search box
+  uid: b55aec72-c687-4ff9-9cbc-42e7df18e1ef
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Search Result should be visible with Product listing page visible properly
+  uid: 752f551c-62b8-44bb-81cc-4e698b76afe7
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see Add Button
+  uid: d81a8cbb-6870-428c-b1dc-56ac17c6863d
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Click on Add Button
+  uid: 5d2f018a-9cce-4848-851c-3e15ec3e1d49
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is able to see Success message of product added to cart with link to
+    redirec on Shopping Cart Page
+  uid: 84b00e1a-1a11-4064-9cef-fe65ec13f84f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Product is visible in the cart
+  uid: 730a44c2-0cd2-404e-a481-c3a2559d8028
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Cart Page visible and functioning Properly with updating QTY, Applying promo
+    code, Clear basket etc
+  uid: 8b5a0cdc-96d0-4ccc-aec5-7be0bab00880
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user click on Proceed to Checkout Button
+  uid: 89cebada-dd03-44ed-b6c3-924aa918b0e1
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click and navigate to any Category
+  uid: 7d5df780-07df-4294-ab89-d750604d120f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Category Page with Product listing page visible properly
+  uid: d7a986b2-cf6c-43be-8324-8bdbb21784b8
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see Product blocks on the PLP
+  uid: e7d92c8e-86bb-4063-b9ad-32914a799ef5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Click on Product block from Product Listing Page (PLP) Page
+  uid: b9173c88-bedb-4307-b42c-b49c3beb1b57
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to Product Description (PDP) Page
+  uid: 66a2279b-a5ef-4819-babc-79ad7886aa89
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: PDP Page should be visible properly with information blocks, product images,
+    QTY Dropdown and Add to Cart button
+  uid: fafa66b2-c72e-4642-aff3-0a900fae46f5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Click on Add To Basket Button
+  uid: 003bd0b4-36c5-407d-b04c-027056cbc36a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be redirecting to Onestep checkout page which should be visible
+    properly
+  uid: d5083ff7-96fa-43b9-81bc-9d56580a0f69
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to enter values in Shipping Address
+  uid: cb014777-6f85-4fa3-aed6-42dc09d12587
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to enter values in placeholder within Shipping Page
+  uid: 96891bd5-85aa-4bcb-9015-ba6687ea78f8
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Click on checkbox 'My billing and shipping address are the same' if user
+    dont want to add different address for billing
+  uid: 6726c161-690b-4953-8f95-3dea16b9e74f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see and select any of the Shipping method from Shipping
+    Method
+  uid: 8fadaf8b-5941-41f9-837e-b76d2de27f53
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can add any note  or instruction in the placeholder below shipping methods
+  uid: 2bbf220f-22ec-4cc8-929f-f641e952fd61
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see and select any of the payment option from Payment
+    Method
+  uid: 3c7de8f4-e0f0-44f4-b531-7cd0633787b4
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the Place Order Button
+  uid: 26e8b277-3a6c-4f27-994e-2372318ad70a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be Redirected to Order Success Page with Order details
+  uid: 9c626fac-3a63-4e26-8aaf-a118de2ae693
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be on Checkout page URL of L&S Engineer
+  uid: b854dc19-e1e4-48a3-9e13-c485fbb53edf
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: The Onestep Checkout page hould be visible properly with all section and placeholders
+  uid: 063c4599-b1bf-42f5-98c5-a471a9de1277
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Click on checkbox 'My billing and shipping address are the same' to select
+    option, the user dont see any options to add different address for billing
+  uid: 8cca922c-b79a-448e-9d00-7395315a8f71
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Click on Checkbox 'My billing and shipping address are the same' to not
+    select checkbox
+  uid: '08f134ff-382e-490d-b2fe-c9e13b05ac08'
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Billing Address block appears to enter the address as Billing address
+  uid: 28273045-1d7f-4aa4-a87e-55cab118a53f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is on Checkout page URL of L&S Engineer as GUEST USER having checkout
+    page visible properly
+  uid: 063cd2cc-210c-4a32-80b9-3623b0e91b10
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: on right hand corner'Already have an account? Login here' link should be visible
+    and clickable
+  uid: 3927d355-6626-4981-800a-d3cf36ed14aa
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user click on the 'Already have an account? Login here' link to login
+  uid: 49324654-f86f-4e0d-be02-def539e9e296
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: The "p1" pop-up appears to be accepting valid login credentials
+  uid: 365a2aff-e67f-43d0-86a1-ce58006aabea
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User provide Valid Login credentials and click on "p1" Button
+  uid: 1da73d6a-0819-4871-9a73-e9b25cab43dd
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User redirected to Checkout Page with already saved address in Shipping Address
+    block
+  uid: 06b33d45-fc0f-482b-bfd8-319b99ec895f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Click on the NEW ADDRESS button should be visible to add new shipping address
+  uid: 42c9eed8-c44e-4c6c-ab88-43b07238acc2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: The Shipping address pop-up appears to add new address with "p1" and "p2"
+    Button
+  uid: cbb0386e-b493-42fa-a7f3-a5eec4e96258
+  parameters:
+  - name: p1
+  - name: p2
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is on Checkout page URL of L&S Engineer as REGISTERED USER having checkout
+    page visible properly
+  uid: 9a477488-07ab-4fbc-9b46-96e46c11a944
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User have accessed the site
+  uid: 45048bff-36db-4772-983c-1e0362f2d679
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User enter any keyword on the search bar
+  uid: '077785fe-a78b-433c-bd32-5ae3f53a6a62'
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the search suggestion should be  displayed
+  uid: ba1ddf79-8f9c-4bc4-b7c2-76f49217c9dc
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on any product
+  uid: 5db7164f-5704-4758-ab2d-4acd2788f5ef
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the page redirects to the product page
+  uid: d404985d-d53f-4b12-8363-79f34a454c5a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the search icon
+  uid: 85c90b93-3ce7-4f94-a97f-bd75adc62bed
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the page redirects to the search result page
+  uid: 9db9ec94-b4ce-4dd0-b51e-cb24df96766e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is on the search result page
+  uid: f12ba9b6-ac18-4910-aa10-f9a331e57ee5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the categories should be visible on the search result page
+  uid: 2ef3d21e-8ef4-4c19-9610-245906d9c1f1
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the Category Image, Left Navigation list to redirect on specific Category
+    should be present on the product
+  uid: 8e2a41f7-1f08-4d39-94fa-590ef2945d67
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the Category in Left Nav/Result listing
+  uid: a3058ce3-66f9-48df-be73-90b406444d1b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the page should get redirected to the Next Category listing/product listing
+    page
+  uid: a7585cbf-a6f9-49fc-93b5-04e1b03ca649
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User select any option from the Left Navigation section
+  uid: 6b204f43-2146-4be6-9b35-d630bb4cd93a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the search result page should get updated as per the selected filter option
+  uid: b8ad49e1-522e-46bc-9f57-8bd34a384bc5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is on the product listing page
+  uid: d61a31b3-4470-44d2-b505-9f6c99b23294
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the category description should be visible on the product listing page
+  uid: 4fdb9697-0b57-46f6-a4f6-fe2e203cb4d0
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the product should be visible on the product listing page
+  uid: b3b3c282-6590-460b-a3bb-70bc81825055
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the product Image, name, price, view product/add to basket button should be
+    present on the product
+  uid: 8caf643b-f9a4-44ed-8d82-bc8e06dc44c7
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the view button
+  uid: 800f6f2f-d733-4f50-a1ab-2c77f2b95c76
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the page should get redirected to the product page
+  uid: c1fb6e2e-ceaa-4021-ae62-df596e7a6359
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is on the product listing page which has a simple product
+  uid: '0380f04e-f9a9-4ff5-a461-932691e613bb'
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the ‘ADD‘ button should be visible for the simple product
+  uid: 15e8ab61-87c0-4371-9675-da7a667eebd8
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the product should get added if I click on the ‘ADD‘ button
+  uid: 06c3e58d-2c8a-40e4-a905-d078280e79bf
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User select any option from the sort section
+  uid: 8fa11473-614f-43f8-9b77-f3d95e32b4d2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the product listing page should get updated as per the selected sort option
+  uid: 10e34764-eb17-41ee-8c09-7d6546781597
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User select any filter option from the sidebar
+  uid: c0eecfe6-27a5-4868-88a5-521da8a0e9a7
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the product listing page should get updated as per the selected filter option
+  uid: 3411b03b-3258-46ca-9a75-eb984bb4a74d
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User select any ‘view per page’  option
+  uid: a2f45d83-677e-41fb-8a67-d2dd49b6cb3c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the number of products present on the product listing page should show as
+    per the selected ‘view per page ‘
+  uid: c5f247a9-cf33-4b81-9491-8ede4ff8f315
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the products on the product listing page are more than the ‘view per page’
+  uid: 7b0b1b63-68c4-40d0-9c03-de86b5695e46
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the pagination should be visible if the products are more than the ‘view per
+    page’
+  uid: e8a33713-8c2e-4b46-b66f-0ebbba477c71
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User select a pagination
+  uid: d8acc84b-1eef-4c9a-b394-8ead357e020a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the page should get redirected as per the selected pagination
+  uid: 2baf6f01-6537-449e-9de9-31c67789bd9e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is on the category listing page
+  uid: 1dff39e9-e14f-484a-8b65-f8908521084c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the category description with sub-categories to redirect should be visible
+    on the category listing page
+  uid: d1d9ce74-d2ca-4a26-b5d3-2d23b3555a7e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is  on the category listing page
+  uid: 89f5b4d8-1df0-4a65-a128-b53207603697
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the sub-categories with list of more sub-categories should be visible on the
+    category listing page
+  uid: ffe945c4-e0b0-4a6a-98c6-bf71fdf0c684
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the Category Image, name, list of sub-categories should be present on the
+    product
+  uid: f1657854-4bbb-41e4-8402-ebac220ade6e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is on a product listing page
+  uid: 2a11d3b4-2059-4f41-919a-aa64b2e15c2b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click 'ADD' button to get product added to cart
+  uid: befc25cf-19f6-4f02-b2cd-099ea5f49833
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User open the minicart
+  uid: 88265027-ffd0-4f4f-9123-19fb7999eacc
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the product added is visible
+  uid: 0411aad0-0b88-47a4-929c-c11bd259f533
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is on a product page
+  uid: c3a68eba-6594-405f-b2a0-00d8a044f4e2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User open the mini-cart
+  uid: 87027f84-7656-40a5-a0b5-dd3d0ea6444c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: click the increment/decrement button or update the Qty in mini cart
+  uid: 938ccf43-1a4e-487c-a5a2-5b15520bd481
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the Mini Cart is updating with latest updated data
+  uid: 90ead268-7afd-4415-abac-f38b4e4dec9e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is on a simple product page
+  uid: 7f67c7f8-5f1e-47e9-ac8a-50c6bf325979
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: click the bin icon beside a product
+  uid: ed762194-6d3e-48f7-bfd1-f79348e3594c
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the product is removed from the cart
+  uid: f3a6f458-4881-45e5-ad64-c57555ab466e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: click the 'View Basket' button
+  uid: 6e25bfd2-b3a5-4d3d-a67e-a23d6695af28
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the user redirects to the Cart Page
+  uid: b79402fa-9413-43f8-8066-7bd715f8d726
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: click the 'Go to Checkout' button
+  uid: 8eb76e78-916d-4768-bfbe-e6a685ad688a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the user redirects to the Checkout Page
+  uid: 82c45d2e-c092-4894-8add-a0f71a1b368b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click 'Add to Cart'
+  uid: 5e374dde-c9df-4e36-915c-9e2f6bb86a9e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to the cart page
+  uid: 4f37cca2-0eb6-4836-bce3-c7bd774f9cd2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User can see the added product
+  uid: 9f23a1d6-9fdb-4d5e-ad0a-16a62554586f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: "User have accessed the admin site \t\tAnd User need to  navigate to System
+    > Import   \t\tAnd Click on Create a new import job \t\tAnd Set up in the details
+    like job title \t\tAnd Set up in the details like entity (types: products), import
+    behaviour, import source file,   \t\tAnd Upload the file \t\tThen Validate the
+    setup and date file \t\tAnd Save the settings \t\tThen User should be able to
+    Run the the Import functionality successfully. \t\tAnd User should be able to
+    View products from CSV file in BE Product listing \t\tAnd  User should be able
+    to see products from csv on PLP/PDP on front-end"
+  uid: f97d47a9-c712-4598-8a22-4fa53c1ab5f3
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to View products from CSV file in BE Product listing
+  uid: fc8d4fb9-eda1-4d91-95eb-cc8392e80c12
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see products from csv on PLP/PDP on front-end
+  uid: d4d75f3c-ad71-4db9-ad83-616df36ce4d6
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User need to  navigate to Add Shop by diagram testsSystem > Import
+  uid: c834cefb-bbc7-4820-93c8-1c820adeaf05
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User create a customer and set customer group to Trade_15%
+  uid: c5f5911f-2a40-4f23-aebc-e1d01dc30246
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'open related PLP as a guest: cms block should be shown instead of SPD product'
+  uid: 85b221c1-c735-4d97-af24-5fd52912365f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'try to open restricted product directly using its link as guest: you should
+    be redirect to PLP'
+  uid: 22da363c-c5e1-4314-876a-7fb730db8ed6
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'login as customer and check PLP again: if your customer group added to the
+    restricted group whom allowed to see SBD product, it should be visible again'
+  uid: d9112b36-707c-4331-b585-f6eb659059da
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: open SBD product by clicking onto (as logged in customer obviously) PDP should
+    be shown
+  uid: de51e538-d45b-4808-a72a-c6bbbc339a24
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'log out and get the PLP again: there should not be any SBD product available
+    again'
+  uid: 65c65ee2-f375-4a00-9395-c1379b208bc1
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is Logged in as Register Customer
+  uid: f355463c-f96e-40a1-88d8-b81ddeb5f55a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Three blocks with  Welcome block containing Order history,and two blocks besides
+    in a same row should be visible
+  uid: e8261a1e-055d-4225-9260-3965a4555fae
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: If user have ordered a My Machine product
+  uid: 281a8624-3afa-4fe2-a0b2-eaf8bb67ba01
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: My Machine Recommends should be visible
+  uid: c2ba5345-393f-4ce7-a21d-3e59aee82f80
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is Logged in as TRADE Customer
+  uid: 976aeb9b-4734-48b6-9ec6-fcaa58ab9f60
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Order By Part Number / Quick Order blocks to add products is visible
+  uid: cdb3f358-202b-4130-9a65-5537667c1a20
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user navigate to PDP Page
+  uid: 9c9ec5fd-ba23-481a-91fb-a71d24db5702
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: If stock level below 100,
+  uid: 8b054fd7-c2f1-4d4f-8a30-6518681b1f30
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: The Actual stock amount should be displayed.
+  uid: f32ab86e-0fa5-4480-8b06-ab7f938ef22b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: If stock level anything above 100,
+  uid: 7f356ea7-a871-4b0c-ad3e-c4588553716f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: It should be displaying like '100+ in stock'
+  uid: e12da759-6b15-4e70-b735-2dbcec9c387d
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User click on the submit order buttonAdd Shop by diagram tests
+  uid: fedb9ea7-6459-42bc-a8e5-ac0439fb1442
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User logged in to the site as a customer
+  uid: 32bab854-46c8-445a-a7e0-2dad03c52493
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'User have purchased a product that has the attribute: *''Unique to a particular
+    machine''* set to *''Yes''*'
+  uid: 9cb0f659-afbe-4443-9396-574b80efeda5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: user logged in to the site as a customer
+  uid: 22284558-0a0b-4972-8c8f-9003e6cc0a7b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User have a product in 'My Machines'
+  uid: a93c870f-2d21-467f-b035-da85d7f57676
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to the Homepage
+  uid: 50f0c2d0-ae5d-467e-a5dc-f3151c66690b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should see a 'My Machines' widget
+  uid: 05b0c9c3-23f6-4576-9764-721d515b2336
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I have accessed the Contact us page on the site
+  uid: fcd3d108-6624-43be-a0fe-8bcfefe4a4d4
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Fill in the form with all required details
+  uid: ed043487-5a43-4968-899b-ee01888ecf1d
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Clicked on Submit Button
+  uid: 0e153ae6-d315-4e2b-a56c-45d620a1c607
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: contact us form should get submitted succesfully
+  uid: 7846342e-51a7-452d-bfe3-70f8b24ee18e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I have accessed the Blog page on the site
+  uid: 75f3c369-5709-4918-b6d1-910d742673df
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: navigate to any Blog
+  uid: 2f44be9b-d467-4f95-a17c-49c0942eda3b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Blog Page should be displaying fine on the front-end
+  uid: 1a0091f2-d1f8-4d01-99e8-5b9dd461289f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User navigate to Product Descriptioan validate on the frontend after import.n
+    (PDP) Page
+  uid: 72eee4fa-f565-48a2-95c8-f3f3e7e28f9b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see and selean validate on the frontend after import.ct
+    any of the payment option from Payment Method
+  uid: 6a57143b-226a-46dd-ba2f-e28141689917
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User is on Checkout page URL of L&S Engineer having checkout page visible
+    properly
+  uid: ed1db1dd-1fec-4fa4-a613-293a57870b94
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see Shipping/Billing Address, Shipping Method, Payment
+    Method, Order Summary block with Place Order button
+  uid: 9a8fe48c-f49a-482a-bb8a-d24abff49556
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see and select purchsae Order Payment Method
+  uid: 9b533c8a-cb6b-4420-b770-378e40a0c695
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be Redirected to Order Success Page
+  uid: d4475a9e-6aa7-4634-97a0-143d1e8df206
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see and select Credit Card Payment Method
+  uid: 7ef1a815-3910-4d92-8307-297c38004baa
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User needs to enter the 3DS Authentications to validate payment details successfully
+  uid: 8f1ab186-d81b-40f6-9135-d6b358f2dc55
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see and select PAYPAL Payment Method
+  uid: c071d9f3-c256-4935-9269-87a41f4fa0a7
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'User navigate to Admin > Categories > Select Category (ex: TS410)'
+  uid: f11927d0-9bfa-4cea-9e86-d5372c5e9e65
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: The selected category should be Set to YES for attribute 'is machine' i.e,
+    is machine = YES
+  uid: 22e1613b-17b7-4181-a672-1c8c25bc5dcb
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'User now change/update the value in Model Name attribute (ex: TS410 TS420)'
+  uid: '064485b0-b625-4507-8360-2cacc389ebe1'
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Navigate to Product from the same category
+  uid: 3b6bbf55-664b-4153-bb45-8c41b85a9781
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Open product to Edit
+  uid: e425d8ea-d247-4b2a-a9e3-a0c8ba715796
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: "'Unique to a particular machine' for the Product should be enable and set
+    as YES"
+  uid: 772f1034-4fdc-4f24-a5ca-2140be0b1b47
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be viewing the same Product on front-end PDP
+  uid: 4e7ecb96-8733-4592-93a4-4617c6d96371
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: the User should have the above category in his 'MY MACHINE' section in Account
+    dashboard
+  uid: 9576e1c3-62ef-4fa5-be86-53d54a3c1557
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be on the PDP page from the same category
+  uid: dd52727a-4a8d-4ae2-a4d6-5181957b7edc
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see the Compatable with text followed by Model name
+    provided from backend on the PDP Page
+  uid: a57f3dfa-a522-41f1-80f1-447b1394c68a
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User logins in with given creds
+  uid: a67f07fa-0189-41e0-8363-69d7daeef573
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User Checks the Welcome Text
+  uid: 54c12887-f37b-4316-8312-2879f7f0e7b5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User should be able to see their Full Name
+  uid: f5398726-cd51-406e-aafa-6d3a347e392f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
